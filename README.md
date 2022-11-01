@@ -103,7 +103,7 @@ Backend skills :
  :fire: My Stats :
 </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlinaAsatryan&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-Asatryan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlinaAsatryan&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaAsatryan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
